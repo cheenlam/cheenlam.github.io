@@ -1,0 +1,122 @@
+{
+    "max": {
+        "live": [
+            {
+                "link": "",
+                "imgSrc": "live-ab"
+            },
+            {
+                "link": "",
+                "imgSrc": "live-dg"
+            },
+            {
+                "link": "",
+                "imgSrc": "live-sa"
+            },
+            {
+                "link": "",
+                "imgSrc": "live-wm"
+            }
+        ],
+        "sport": [
+            {
+                "link": "",
+                "imgSrc": "sport-super"
+            }
+        ],
+        "slot": [
+            {
+                "link": "",
+                "imgSrc": "slot-bng"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-bwin"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-dt"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-gr"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-play"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-rsg"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-rtg"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-sp"
+            }
+        ]
+    },
+    "min": {
+        "live": [
+            {
+                "link": "",
+                "imgSrc": "live-ab"
+            },
+            {
+                "link": "",
+                "imgSrc": "live-dg"
+            },
+            {
+                "link": "",
+                "imgSrc": "live-sa"
+            },
+            {
+                "link": "",
+                "imgSrc": "live-wm"
+            }
+        ],
+        "sport": [
+            {
+                "link": "",
+                "imgSrc": "sport-super"
+            }
+        ],
+        "slot": [
+            {
+                "link": "",
+                "imgSrc": "slot-bng"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-bwin"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-dt"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-gr"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-play"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-rsg"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-rtg"
+            },
+            {
+                "link": "",
+                "imgSrc": "slot-sp"
+            }
+        ]
+    }
+}
